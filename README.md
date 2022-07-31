@@ -1,5 +1,10 @@
 ### Hi there, I'm Khaled Abdulrahman 👋
 
+    IT Entrepreneur
+    Front End Lead
+    Software Instructor
+    More than 50k student around the world
+
 <!--
 **Khaledabdo77/Khaledabdo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
