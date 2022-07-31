@@ -1,10 +1,16 @@
 ### Hi there, I'm Khaled Abdulrahman 👋
 
-    IT Entrepreneur
-    Front End Lead
-    Software Instructor
-    More than 50k student around the world
+  -  Flutter Developer
+  -  Front End Developer
 
+<hr>
+Contact with me on
+
+   - business email : <a href="ka1263@fayoum.edu.eg">ka1263@fayoum.edu.eg
+   - personal email : <a href="khaledabdo7777@gmail.com">khaledabdo7777@gmail.com
+
+
+    
 <!--
 **Khaledabdo77/Khaledabdo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
