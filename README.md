@@ -1,7 +1,9 @@
 ### Hi there, I'm Khaled Abdulrahman 👋
 
   -  Flutter Developer
-  -  Front End Developer
+  -  Front End Developer (React js, React Native)
+  -  Back End Developer (Nodejs,Express)
+  -  Ui/Ux Designer (Adobe XD)
 
 <hr>
 
