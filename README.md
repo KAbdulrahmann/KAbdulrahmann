@@ -15,7 +15,7 @@
 <hr>
 
 <h3>Samples from my projects</h3>
-    
+<!--
 <h2>Afaq App:</h2>
 
 Afaq app manages buying and selling operations for various markets. Afaq application can print invoices, calculate results and print reports.
@@ -28,7 +28,7 @@ Afaq handled with PHP / Laravel as Backend .It have many of selling points
 ![716 290 107 - AnyDesk 2022-07-13 15-34-19_Moment](https://user-images.githubusercontent.com/58075058/189663959-f6370ef1-c078-47ec-a1ac-bce7f74ad4b6.jpg)
 ![716 290 107 - AnyDesk 2022-07-13 15-34-19_Moment(2)](https://user-images.githubusercontent.com/58075058/189664003-07425d38-3b03-4e00-b515-377f292612a7.jpg)
 
-
+-->
 <h2>Games app:</h2>
   
 ![WhatsApp Image 2022-09-11 at 11 32 52 AM](https://user-images.githubusercontent.com/58075058/189665177-ab260b9c-9017-4258-b42e-30100dd781e9.jpeg)
