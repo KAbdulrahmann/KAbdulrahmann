@@ -4,7 +4,8 @@
   -  Front End Developer (React js, React Native)
   -  Back End Developer (Nodejs,Express)
   -  Ui/Ux Designer (Adobe XD)
-
+<hr>
+  You can check my last projects here : <a href="https://kabdulrahmann.github.io/portfolio"> my portfolio</a>
 <hr>
 
 <h3>Contact with me on :</h3>
